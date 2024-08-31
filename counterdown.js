@@ -1,7 +1,7 @@
-var time1 = new Date("Jan 30, 2022 23:59:00").getTime();
+var time1 = new Date("Jan 30, 2024 23:59:00").getTime();
 var time2 = new Date("Dec 31, 2024 23:59:00").getTime();
-var time3 = new Date("Aug 31, 2025 23:59:00").getTime();
-var time4 = new Date("Dec 31, 2025 23:59:00").getTime();
+var time3 = new Date("Aug 31, 2024 23:59:00").getTime();
+var time4 = new Date("Dec 31, 2024 23:59:00").getTime();
 
 //-------------------------------- FIRST TIME FUNCTION ------------------------------
 var firstTime = setInterval(function () {
