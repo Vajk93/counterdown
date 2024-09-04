@@ -1,6 +1,6 @@
 var time1 = new Date("Jun 31, 2024 23:59:00").getTime();
 var time2 = new Date("Sep 31, 2024 23:59:00").getTime();
-var time3 = new Date("Okt 31, 2024 23:59:00").getTime();
+var time3 = new Date("Nov 31, 2024 23:59:00").getTime();
 var time4 = new Date("Dec 31, 2024 23:59:00").getTime();
 
 //-------------------------------- FIRST TIME FUNCTION ------------------------------
